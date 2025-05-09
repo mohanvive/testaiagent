@@ -1,1 +1,4 @@
 /.vscode
+Config.toml
+target/
+Dependencies.toml
